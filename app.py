@@ -28,3 +28,4 @@ st.markdown(
     """
     👉 Use the sidebar to move through the analysis steps.
     """
+)
